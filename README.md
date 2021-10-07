@@ -1,1 +1,1 @@
-<h1 style="text-align:center">Material UI</h1>
+<h1 style="color:blue;font-size:46px;">Material UI</h1>
